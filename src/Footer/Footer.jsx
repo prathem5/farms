@@ -112,7 +112,7 @@ function Footer() {
       {" "}
       © Copyright{" "}
       <strong>
-        <span style={{ color: "#2e4e3d" }}>beyondfarms farm </span>
+        <span style={{ color: "#2e4e3d" }}>beyond farm </span>
       </strong>
       . All Rights Reserved{" "}
     </div>
