@@ -16,12 +16,12 @@ function ContectP() {
   const submitForm = (values) => {
     console.log("values",values);
 
-    var body =  '<!DOCTYPE html><html><head><title>Enquiry Lead</title></head><body><div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;background-color:#f2f2f2;padding:20px"><h2 style="color:#dc9d7e">Beyond farms Farm</h2><p>Hello</p><p>Thank you for your interest in our products/services.</p><p>Please check your enquiry which generated from website:</p><table cellpadding="5" style="margin:0"><tr><td style="text-align:left;color:#dc9d7e"><strong>Name:</strong></td><td style="text-align:left">' + values.name + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Email:</strong></td><td style="text-align:left">' + values.email + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Subject:</strong></td><td style="text-align:left">' + values.subject + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Message:</strong></td><td style="text-align:left">' + values.message + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Mobile Number:</strong></td><td style="text-align:left">' + values.mobileNo + '</td></tr></table><p style="font-weight:700">Best regards,<br>Your Team at Beyond farms Farm</p></div></body></html>';
+    var body =  '<!DOCTYPE html><html><head><title>Enquiry Lead</title></head><body><div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;background-color:#f2f2f2;padding:20px"><h2 style="color:#dc9d7e">Beyond Farm</h2><p>Hello</p><p>Thank you for your interest in our products/services.</p><p>Please check your enquiry which generated from website:</p><table cellpadding="5" style="margin:0"><tr><td style="text-align:left;color:#dc9d7e"><strong>Name:</strong></td><td style="text-align:left">' + values.name + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Email:</strong></td><td style="text-align:left">' + values.email + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Subject:</strong></td><td style="text-align:left">' + values.subject + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Message:</strong></td><td style="text-align:left">' + values.message + '</td></tr><tr><td style="text-align:left;color:#dc9d7e"><strong>Mobile Number:</strong></td><td style="text-align:left">' + values.mobileNo + '</td></tr></table><p style="font-weight:700">Best regards,<br>Your Team at Beyond Farm</p></div></body></html>';
 
-        $.post("https://skdm.in/server/v1/send_lead_mail.php", {
-            toEmail: "formomkarnature@gmail.com",
-            fromEmail: "skdmlead@gmail.com",
-            bccMail: "skdmlead@gmail.com",
+        $.post("https://beyondtech.in/server/v1/send_lead_mail.php", {
+            toEmail: "prathemeshsangle@gmail.com",
+            fromEmail: "beyondtech@gmail.com",
+            bccMail: "beyondtech@gmail.com",
             mailSubject: "New Customer Lead",
             mailBody: body,
             accountName: "Omkar nature farm",
@@ -44,8 +44,8 @@ function ContectP() {
   return (
     <>
     <MetaTags>
-      <title>Farmhouse near Wada | Beyond farms Farm</title>
-        <meta title="Farmhouse near Wada | Beyond farms Farm" />
+      <title>Farmhouse near Wada | Beyond Farm</title>
+        <meta title="Farmhouse near Wada | Beyond Farm" />
         <meta
           name="description"
           content="At the Farmhouse near Wada, experience serene retreats amidst nature's embrace. Leave the city behind and immerse yourself in tranquility."
@@ -58,7 +58,7 @@ function ContectP() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse near Wada | Beyond farms Farm" />
+        <meta property="og:title" content="Farmhouse near Wada | Beyond Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse near Wada"/>
@@ -66,15 +66,15 @@ function ContectP() {
         <meta property="og:image" content="https://omkarnaturefarm.in/static/media/omkar-nature.87735681decd4a0e08d7.jpeg" />       
       </MetaTags>
     <p className="d-none">
-    Welcome to Beyond farms Farm House, your premier destination for a blissful retreat near Wada. Situated amidst the picturesque landscapes of Wada, our farmhouse offers an idyllic escimgape from the hustle and bustle of city life.
+    Welcome to Beyond Farm House, your premier destination for a blissful retreat near Wada. Situated amidst the picturesque landscapes of Wada, our farmhouse offers an idyllic escimgape from the hustle and bustle of city life.
 
-At Beyond farms Farm House, immerse yourself in the beauty of nature as you unwind in our serene surroundings. Whether you're seeking a peaceful getaway with your loved ones or an adventurous outing with friends, our farmhouse provides the perfect setting for both relaxation and exploration.
+At Beyond Farm House, immerse yourself in the beauty of nature as you unwind in our serene surroundings. Whether you're seeking a peaceful getaway with your loved ones or an adventurous outing with friends, our farmhouse provides the perfect setting for both relaxation and exploration.
 
 Indulge in a range of activities, from nature walks and birdwatching to bonfires under the starlit sky. Our farmhouse near Wada ensures that every moment is filled with joy and tranquility, allowing you to reconnect with yourself and with nature.
 
-With comfortable accommodations, delicious farm-to-table meals, and warm hospitality, Beyond farms Farm House ensures a memorable stay for every guest. Whether you're planning a weekend getaway or a longer vacation, our farmhouse near Wada promises an unforgettable experience amidst the beauty of the countryside.
+With comfortable accommodations, delicious farm-to-table meals, and warm hospitality, Beyond Farm House ensures a memorable stay for every guest. Whether you're planning a weekend getaway or a longer vacation, our farmhouse near Wada promises an unforgettable experience amidst the beauty of the countryside.
 
-Escape to Beyond farms Farm House and discover the magic of rural living near Wada. Book your stay with us today and embark on a journey of relaxation, rejuvenation, and discovery.
+Escape to Beyond Farm House and discover the magic of rural living near Wada. Book your stay with us today and embark on a journey of relaxation, rejuvenation, and discovery.
     </p>
       <ContectBanner />
 
@@ -133,7 +133,7 @@ Escape to Beyond farms Farm House and discover the magic of rural living near Wa
           </div>
         </div>
         <div className="titleSection mt-5">
-          <h4 style={{ fontSize: "2rem" }}>Beyond farms Farm</h4>
+          <h4 style={{ fontSize: "2rem" }}>Beyond Farm</h4>
         </div>
         <div className="contactImgIcon">
           <img

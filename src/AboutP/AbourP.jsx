@@ -11,8 +11,8 @@ function AbourP() {
 
     <>
     <MetaTags>
-      <title>Farmhouse in Wada for Family | Beyond farms Farm</title>
-        <meta title="Farmhouse in Wada for Family | Beyond farms Farm" />
+      <title>Farmhouse in Wada for Family | Beyond Farm</title>
+        <meta title="Farmhouse in Wada for Family | Beyond Farm" />
         <meta
           name="description"
           content=" Discover a tranquil Farmhouse in Wada for family getaways. Enjoy a peaceful retreat surrounded by nature, offering comfort and relaxation for your entire family."
@@ -25,7 +25,7 @@ function AbourP() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse in Wada for Family | Beyond farms Farm" />
+        <meta property="og:title" content="Farmhouse in Wada for Family | Beyond Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse in Wada for family"/>
@@ -71,7 +71,7 @@ function AbourP() {
         >
           <h3 style={{ color: "#111" }}>Our Vision</h3>
           <p style={{ color: "#111" }}>
-          At Beyond farms Farm, our vision is to create a sanctuary where guests can escape the bustle of urban life and reconnect with nature. Through sustainable practices and immersive experiences, we aim to foster a deep appreciation for the environment. Our goal is to provide a tranquil oasis where individuals can rejuvenate their minds, bodies, and spirits. With heartfelt hospitality and a commitment to sustainability, we aspire to inspire harmony between humanity and the natural world.
+          At Beyond Farm, our vision is to create a sanctuary where guests can escape the bustle of urban life and reconnect with nature. Through sustainable practices and immersive experiences, we aim to foster a deep appreciation for the environment. Our goal is to provide a tranquil oasis where individuals can rejuvenate their minds, bodies, and spirits. With heartfelt hospitality and a commitment to sustainability, we aspire to inspire harmony between humanity and the natural world.
 
 
 
@@ -91,7 +91,7 @@ function AbourP() {
         <div className="ourstory">
           <h3>Our Mission</h3>
           <p>
-          Our mission at Beyond farms Farm is to provide guests with an immersive experience that reconnects them with nature, fosters relaxation, and promotes environmental stewardship through sustainable practices.
+          Our mission at Beyond Farm is to provide guests with an immersive experience that reconnects them with nature, fosters relaxation, and promotes environmental stewardship through sustainable practices.
           </p>
         </div>
         </Fade>

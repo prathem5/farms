@@ -45,8 +45,8 @@ function AccomodationP() {
   return (
     <>
     <MetaTags>
-      <title>Farmhouse with Private Pool in Wada | Beyond farms Farm</title>
-        <meta title="Farmhouse with Private Pool in Wada | Beyond farms Farm" />
+      <title>Farmhouse with Private Pool in Wada | Beyond Farm</title>
+        <meta title="Farmhouse with Private Pool in Wada | Beyond Farm" />
         <meta
           name="description"
           content="Indulge in luxury and serenity at our Farmhouse with a Private Pool in Wada. Escape the urban chaos and immerse yourself in a tranquil oasis."
@@ -59,7 +59,7 @@ function AccomodationP() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse with Private Pool in Wada | Beyond farms Farm" />
+        <meta property="og:title" content="Farmhouse with Private Pool in Wada | Beyond Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/ Farmhouse with Private Pool in Wada"/>

@@ -92,11 +92,11 @@ function WeareSection() {
             <span className="mb-2 fw-medium text-secondary ff-sub text-uppercase ls-1 d-block">
               Welcome to
             </span>
-            <h2 className=" ff-heading">Beyond farms Farm</h2>
+            <h2 className=" ff-heading">Beyond Farm</h2>
             <p className="mb-6">
 
            
-Welcome to Beyond farms Farm, a sanctuary of natural beauty and rural charm! Tucked away in scenic surroundings, our farm beckons you to escape the hustle and bustle of city life. Whether you seek a peaceful retreat or an exciting adventure, Beyond farms Farm promises an unforgettable experience for individuals, families, and nature enthusiasts alike. For those seeking the perfect getaway, our Farmhouse in Wada for Family offers the ideal setting to relax and reconnect. Come, join us in embracing the tranquil rhythms of nature and creating cherished memories that will last a lifetime. Your journey to relaxation, rejuvenation, and connection with the land begins here at our Farmhouse in Wada for Family!
+Welcome to Beyond Farm, a sanctuary of natural beauty and rural charm! Tucked away in scenic surroundings, our farm beckons you to escape the hustle and bustle of city life. Whether you seek a peaceful retreat or an exciting adventure, Beyond Farm promises an unforgettable experience for individuals, families, and nature enthusiasts alike. For those seeking the perfect getaway, our Farmhouse in Wada for Family offers the ideal setting to relax and reconnect. Come, join us in embracing the tranquil rhythms of nature and creating cherished memories that will last a lifetime. Your journey to relaxation, rejuvenation, and connection with the land begins here at our Farmhouse in Wada for Family!
             </p>
             <a role="button" tabIndex={0} href="#!" className="custom-btn "> 
             <a href="/wedding-event-planner-mumbai" style={{ color: "white" }}>

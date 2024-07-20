@@ -68,7 +68,7 @@ function Amenities() {
         </div>
         <div className="activityinfo">
           <p>
-          Beyond farms Farm offers prompt &amp; efficient room service for ultimate guest satisfaction
+          Beyond Farm offers prompt &amp; efficient room service for ultimate guest satisfaction
             us.
           </p>
         </div>

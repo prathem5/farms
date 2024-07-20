@@ -11,8 +11,8 @@ function ActivityP() {
   return (
     <>
  <MetaTags>
-      <title>Best Farmhouse in Wada | Beyond farms Farm</title>
-        <meta title="Best Farmhouse in Wada | Beyond farms Farm" />
+      <title>Best Farmhouse in Wada | Beyond Farm</title>
+        <meta title="Best Farmhouse in Wada | Beyond Farm" />
         <meta
           name="description"
           content="Discover the ultimate getaway at the Best Farmhouse in Wada. Experience unparalleled luxury and serenity amidst nature's embrace. Book your dream stay!"
@@ -25,7 +25,7 @@ function ActivityP() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse in Wada for Family | Beyond farms Farm" />
+        <meta property="og:title" content="Farmhouse in Wada for Family | Beyond Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse in Wada"/>
@@ -57,7 +57,7 @@ function ActivityP() {
             <div className="activityText">
               <h3>Wifi&amp; Lawn</h3>
               <p>
-              Enjoy complimentary WiFi access along with the expansive greenery of our lush lawn at Beyond farms Farm. 
+              Enjoy complimentary WiFi access along with the expansive greenery of our lush lawn at Beyond Farm. 
               </p>
             </div>
           </div>

@@ -10,7 +10,7 @@ function Banner() {
       <div className="homeScroll">
   <div className="homeSection" id="home">
     <div className="homeText">
-      <h1>Beyond farms Farm</h1>
+      <h1>Beyond Farm</h1>
       <ul>
         <li>
           <span className="material-symbols-outlined"><CiStar /></span>

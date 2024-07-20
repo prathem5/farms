@@ -118,7 +118,7 @@ function Footer() {
     </div>
     <div className="credits">
       Designed by{" "}
-      <a href="https://skdm.in/" style={{ color: "#f26522" }}>
+      <a href="https://beyondtech.in/" style={{ color: "#f26522" }}>
         Shree Krishna Digital
       </a>{" "}
     </div>
