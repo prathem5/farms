@@ -10,8 +10,8 @@ function EventPage() {
   return (
     <>
     <MetaTags>
-      <title>Farmhouse for Events in Wada | Omkar Nature Farm</title>
-        <meta title="Farmhouse for Events in Wada | Omkar Nature Farm" />
+      <title>Farmhouse for Events in Wada | Beyond farms Farm</title>
+        <meta title="Farmhouse for Events in Wada | Beyond farms Farm" />
         <meta
           name="description"
           content="Looking for a Farmhouse for Events in Wada? Our picturesque venue offers the perfect blend of rustic charm and modern amenities. Book now !!"
@@ -24,7 +24,7 @@ function EventPage() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse for Events in Wada | Omkar Nature Farm" />
+        <meta property="og:title" content="Farmhouse for Events in Wada | Beyond farms Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse for Events in Wada"/>
@@ -114,7 +114,7 @@ Welcome to Omkar Farm House – where we also offer picturesque pre-wedding shoo
                 <h2>Anniversary Celebration</h2>
                 <div className="birthdaydetail">
                   <p>
-                  We create enchanting moments for anniversary celebrations! Amidst the serene countryside, our venue offers intimate event spaces, gourmet catering, and tailored packages to mark your special milestone. Let us orchestrate a romantic ambiance with scenic views and impeccable service. Whether it's your first or fiftieth anniversary, make it unforgettable at Omkar Nature Farm . Contact us to plan your dream anniversary celebration today
+                  We create enchanting moments for anniversary celebrations! Amidst the serene countryside, our venue offers intimate event spaces, gourmet catering, and tailored packages to mark your special milestone. Let us orchestrate a romantic ambiance with scenic views and impeccable service. Whether it's your first or fiftieth anniversary, make it unforgettable at Beyond farms Farm . Contact us to plan your dream anniversary celebration today
                    </p>
                 </div>
               </div>

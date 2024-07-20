@@ -24,8 +24,8 @@ function GalleryP() {
   return (
     <>
     <MetaTags>
-      <title>Private Farmhouse in Wada | Omkar Nature Farm</title>
-        <meta title="Private Farmhouse in Wada | Omkar Nature Farm" />
+      <title>Private Farmhouse in Wada | Beyond farms Farm</title>
+        <meta title="Private Farmhouse in Wada | Beyond farms Farm" />
         <meta
           name="description"
           content="Experience the epitome of tranquility at our Private Farmhouse in Wada. Escape the hustle and bustle, surrounded by nature's beauty. Book your stay now!"
@@ -38,7 +38,7 @@ function GalleryP() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Private Farmhouse in Wada | Omkar Nature Farm" />
+        <meta property="og:title" content="Private Farmhouse in Wada | Beyond farms Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse in Wada"/>

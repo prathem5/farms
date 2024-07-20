@@ -18,8 +18,8 @@ function Home() {
   return (
     <>
     <MetaTags>
-      <title>Farmhouse in Wada | Omkar Nature Farm</title>
-        <meta title="Farmhouse in Wada | Omkar Nature Farm" />
+      <title>Farmhouse in Wada | Beyond farms Farm</title>
+        <meta title="Farmhouse in Wada | Beyond farms Farm" />
         <meta
           name="description"
           content="Discover the charm of rural living at our picturesque Farmhouse in Wada. Nestled amidst serene landscapes, our farmhouse offers a tranquil retreat ."
@@ -32,7 +32,7 @@ function Home() {
         <meta http-equiv="cache-control" content="no-cache" />
         <meta http-equiv="expires" content="0" />
         <meta http-equiv="pragma" content="no-cache" />
-        <meta property="og:title" content="Farmhouse in Wada | Omkar Nature Farm" />
+        <meta property="og:title" content="Farmhouse in Wada | Beyond farms Farm" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://omkarnaturefarm.in/Farmhouse in Wada"/>

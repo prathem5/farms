@@ -68,7 +68,7 @@ function Amenities() {
         </div>
         <div className="activityinfo">
           <p>
-          Omkar Nature Farm offers prompt &amp; efficient room service for ultimate guest satisfaction
+          Beyond farms Farm offers prompt &amp; efficient room service for ultimate guest satisfaction
             us.
           </p>
         </div>
