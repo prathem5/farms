@@ -20,14 +20,14 @@ function Footer() {
           <p>
             <a style={{ color: "#fff" }} href="tel:+91 7028725777">
               {" "}
-              <strong>Phone:</strong> +91 8976256998
+              <strong>Phone:</strong> +91 9167300235
             </a>
             <br />
             <a
               style={{ color: "#fff" }}
               href="mailto:eerasagroresort@gmail.com"
             >
-              <strong>Email:</strong>farmomkarnature@gmail.com
+              <strong>Email:</strong>beyondfarms@gmail.com
             </a>
             <br />
           </p>
@@ -112,14 +112,14 @@ function Footer() {
       {" "}
       © Copyright{" "}
       <strong>
-        <span style={{ color: "#2e4e3d" }}>omkar nature farm </span>
+        <span style={{ color: "#2e4e3d" }}>beyondfarms farm </span>
       </strong>
       . All Rights Reserved{" "}
     </div>
     <div className="credits">
       Designed by{" "}
-      <a href="https://beyondtech.in/" style={{ color: "#f26522" }}>
-        Shree Krishna Digital
+      <a href="https://thinksolution.github.io/home/" style={{ color: "#f26522" }}>
+        Beyond Tech
       </a>{" "}
     </div>
   </div>

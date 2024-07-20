@@ -8,7 +8,7 @@ function Whatsappicon() {
     
     <div className="icon-bar1">
     
-<a target="_blank" href="https://wa.me/+918976256998?text=">
+<a target="_blank" href="https://wa.me/+919167300235?text=">
 
   
   

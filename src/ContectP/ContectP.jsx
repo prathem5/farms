@@ -113,7 +113,7 @@ Escape to Beyond Farm House and discover the magic of rural living near Wada. Bo
                 </div>
                 <div className="contactText">
                   <a href="tel:+91 7028725777">
-                    <p>+91 8976256998</p>
+                    <p>+91 9167300235</p>
                   </a>
                 </div>
               </div>
